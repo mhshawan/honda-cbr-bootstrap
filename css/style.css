@@ -1,0 +1,115 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header */
+
+header{
+    background-color: #264653;
+    min-height: 80vh;
+}
+
+.navbar .login{
+    background-color: #E76F51;
+}
+
+.banner-text span{
+    font-size: 14px;
+}
+
+.banner-text p{
+    color: #E0E0E0;
+}
+
+.banner-text button{
+    background-color: #E76F51;
+}
+
+/* bike section */
+.bike-text h1{
+    font-weight: 600;
+}
+
+.bike-text span{
+    font-weight: 600;
+    font-size: 14px;
+    color: #E76F51;
+}
+
+.bike-text hr{
+    width: 58px;
+    border: 1px solid #E76F51;
+
+}
+
+.grayscale{
+    filter: grayscale(100%);
+}
+
+/* news section */
+
+.news h1{
+    font-weight: 600;
+}
+.card-body p{
+    color:#6C6C6C;
+}
+
+.card-body .btn{
+    background: #E76F51;
+}
+
+/* client section */
+
+.client h1{
+    font-weight: 600;
+}
+
+.client span{
+    color: #E76F51;
+}
+
+.rating i{
+    color: #E76F51;
+}
+
+.testimonial .name{
+    color: #23A6F0;
+}
+
+.testimonial .designation{
+    color: #252B42;
+}
+
+/* faq section */
+.faq h1{
+    font-weight: 600;
+}
+
+.faq span{
+    color: #E76F51;
+}
+
+.accordion-button:not(.collapsed) {
+    color: black !important;
+    background-color: white !important;
+}
+
+/* bonus-section-1 */
+.bonus-section-1{
+    background-color: #111111;
+} 
+
+
+/* footer */
+footer{
+    background: black;
+}
+footer a{
+    text-decoration: none;
+    color: #fff;
+}
+
